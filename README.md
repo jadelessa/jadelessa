@@ -7,6 +7,7 @@ Senior Engineer with extensive experience across the full electronic product lif
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/jade-lessa-cutinhola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:jadelessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = <Location:Brazil><img src="https://custom-icon-badges.demolab.com/badge/Brazil-BRA-green?style=for-the-badge&logo=location&logoColor=white" target="_blank"></a>
 </div>
 
 ---
