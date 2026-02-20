@@ -8,12 +8,20 @@ Senior Engineer with extensive experience across the full electronic product lif
 <a href="https://www.linkedin.com/in/jade-lessa-cutinhola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:jadelessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
 
 ---
 
 ### 🤖 Programming Languages
 
+<img 
+    align="middle" 
+    alt="Programming Languages" 
+    title="Programming Languages"
+    width="800px" 
+    style="padding-right: 10px;" 
+    src="https://wakatime.com/share/@Cutinhola/24ecb429-f541-46c6-a22c-74d0818a5f91.svg" 
+/>
+---
 <img 
     align="left" 
     alt="C" 
@@ -62,6 +70,5 @@ Senior Engineer with extensive experience across the full electronic product lif
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" 
 />
-
-
 <br/>
+</div>
